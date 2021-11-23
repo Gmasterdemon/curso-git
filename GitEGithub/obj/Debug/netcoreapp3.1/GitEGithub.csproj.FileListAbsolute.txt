@@ -1,0 +1,14 @@
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\bin\Debug\netcoreapp3.1\GitEGithub.exe
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\bin\Debug\netcoreapp3.1\GitEGithub.deps.json
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\bin\Debug\netcoreapp3.1\GitEGithub.runtimeconfig.json
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\bin\Debug\netcoreapp3.1\GitEGithub.runtimeconfig.dev.json
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\bin\Debug\netcoreapp3.1\GitEGithub.dll
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\bin\Debug\netcoreapp3.1\GitEGithub.pdb
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\obj\Debug\netcoreapp3.1\GitEGithub.csproj.AssemblyReference.cache
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\obj\Debug\netcoreapp3.1\GitEGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\obj\Debug\netcoreapp3.1\GitEGithub.AssemblyInfoInputs.cache
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\obj\Debug\netcoreapp3.1\GitEGithub.AssemblyInfo.cs
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\obj\Debug\netcoreapp3.1\GitEGithub.csproj.CoreCompileInputs.cache
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\obj\Debug\netcoreapp3.1\GitEGithub.dll
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\obj\Debug\netcoreapp3.1\GitEGithub.pdb
+C:\Users\gleiz\OneDrive\Área de Trabalho\C# COMPLETO ORIENTADO A OBJETOS+++PROJETOS\PROJETOS\GIT E GITHUB\GitEGithub\GitEGithub\obj\Debug\netcoreapp3.1\GitEGithub.genruntimeconfig.cache
