@@ -9,6 +9,7 @@ namespace GitEGithub
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia");
             Console.WriteLine("Boa tarde");
+            Console.WriteLine("Anotaçoes na pasta do material de apoio deste modulo");
 
         }
     }
